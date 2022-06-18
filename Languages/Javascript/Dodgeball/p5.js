@@ -27314,7 +27314,7 @@ function needsNew() {
   });
   ```
 
-  Unlike callbacks, promises are great composable primitives.
+  Unlike callbacks, promises are great compable primitives.
 
   ```js
   Promise.all([
